@@ -1,13 +1,17 @@
+# Updated some things to better fit
+- New Icon to better fit into macOS taskbar
+- new shorter Name (tbd if this makes sense with having Umlaute in it)
+
 # Mac U.S. keyboard layout with German Umlauts
-This layout is designed for German speakers using U.S. English mac keyboards. The layout is a modified U.S. English keyboard layout with German Umlauts using `⌥ option` key bindings:
-* `option` + `a` => `ä`
-* `option` + `o` => `ö`
-* `option` + `u` => `ü`
-* `option` + `s` => `ß`
-* `option` + `shift` + `a` => `Ä`
-* `option` + `shift` + `o` => `Ö`
-* `option` + `shift` + `u` => `Ü`
-* `option` + `shift` + `s` => `ẞ`
+This layout is designed for German speakers using U.S. English mac keyboards. The layout is a modified U.S. English keyboard layout with German Umlauts using `??? option` key bindings:
+* `option` + `a` => `??`
+* `option` + `o` => `??`
+* `option` + `u` => `??`
+* `option` + `s` => `??`
+* `option` + `shift` + `a` => `??`
+* `option` + `shift` + `o` => `??`
+* `option` + `shift` + `u` => `??`
+* `option` + `shift` + `s` => `???`
 
 # Installation #
 1. To install the keyboard layout open `Terminal` on your mac and execute the command below. 
@@ -19,7 +23,7 @@ curl -sL https://api.github.com/repos/patrick-zippenfenig/us-with-german-umlauts
 2. Enter your password. This is required because the keyboard layout is installed for all users on your mac.
 3. Open `System Preferences` -> `Keyboard` -> `Input Sources`
 4. Click `+` and add `U.S. with German Umlauts` (category `English`) (Note: If the keyboard is not displayed, you may have to restart your device)
-5. Check `☑ Show Input menu in menu bar`
+5. Check `??? Show Input menu in menu bar`
 6. In the menu bar (top right) select `U.S. with German Umlauts`
 
 # Uninstall #
